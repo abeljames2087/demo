@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Port of LA faces 3-day backlog due to equipment failure",
+    "description": "Logistics companies are rerouting vessels as the Port of Los Angeles struggles with equipment shortages, leading to a 3-day berthing delay.",
+    "source": "Logistics Weekly",
+    "publishedAt": "2023-10-27"
+  },
+  {
+    "title": "Suez Canal traffic resumes after brief grounding incident",
+    "description": "A container ship briefly ran aground in the Suez Canal, causing a short delay before being refloated by tugboats. No major impact expected.",
+    "source": "Maritime Echo",
+    "publishedAt": "2023-10-26"
+  },
+  {
+    "title": "Typhoon approaching South China Sea, threatening key shipping lanes",
+    "description": "A major typhoon is projected to hit the South China Sea this weekend, authorities advise vessels to reroute or anchor safely.",
+    "source": "Global Weather Trade",
+    "publishedAt": "2023-10-25"
+  },
+  {
+    "title": "Freight rates drop slightly despite ongoing Red Sea disruptions",
+    "description": "Global container freight rates have stabilized this week, although major carriers continue to avoid the Red Sea route due to security concerns.",
+    "source": "Econ Shipping Daily",
+    "publishedAt": "2023-10-24"
+  }
+]
